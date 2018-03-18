@@ -9,7 +9,7 @@
 	a => 6
 	b => 9
 	c => 15
- 
+ that would assign the remainder of c divided by a to the variable b. Hint: the variable b should be storing the value 4 after you've done this correctly
  	After testing the statements in the main method, indicate above if your predictions were correct.
 */
 
@@ -23,6 +23,7 @@ public class ReAssignment {
 		System.out.println(a + 1);
 		System.out.println(b-1);
 		System.out.println(c+a);
+		System.out.println(c % a +4);
 		
 }
 	
