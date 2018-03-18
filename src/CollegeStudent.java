@@ -11,6 +11,9 @@ public class CollegeStudent {
 				double year;
 				double courses;
 				double gpa;
+				System.out.println("year");
+				System.out.println("courses");
+				System.out.println("gpa");
 
 	}
 
