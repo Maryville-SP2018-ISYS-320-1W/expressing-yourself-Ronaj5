@@ -10,7 +10,6 @@ public class ComputePay {
 		double salary = 8.75;
 		double pay = totalHours *8.75;
 		
-		
 		System.out.println("My total hours worked:");
 		System.out.println(totalHours);
 		System.out.println("My hourly salary:");
